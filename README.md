@@ -16,7 +16,7 @@ Run each cell sequentially to observe how the neural network is built and how it
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook or Jupyter Lab
-- Python libraries such as `numpy` and `matplotlib`
+- Python libraries: `numpy` and `matplotlib`
 
 ## Input
 - `X_train`, `Y_train`: Training data and labels.
